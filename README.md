@@ -8,13 +8,17 @@ I'm especially interested in API design, automated testing, domain modeling, dis
 
 - Building backend portfolio projects in .NET.
 - Deepening my knowledge of distributed systems, testing strategies, and software architecture.
-- Consolidating algorithms and data structures into a documented, tested repository.
+- Maintaining a documented and tested collection of algorithms, data structures, and coding challenges.
 
 ## Selected projects
 
 ### [Identity](https://github.com/VirginioBruno/identity)
 
 A .NET API for user and credential management, including JWT authentication, validation, persistence with EF Core, middleware, and integration tests.
+
+### [Coding Practice](https://github.com/VirginioBruno/coding-practice)
+
+A structured C# and .NET 10 study repository for algorithms, data structures, and coding challenges, supported by automated tests, benchmarks, CI, and documented progress.
 
 ### [Order Service](https://github.com/VirginioBruno/order-service) — Work in progress
 
