@@ -14,19 +14,19 @@ I'm especially interested in API design, automated testing, domain modeling, dis
 
 ### [Identity](https://github.com/VirginioBruno/identity)
 
-A .NET API for user and credential management, including JWT authentication, validation, persistence with EF Core, middleware, and integration tests.
+A .NET API for identity and access management.
 
 ### [Coding Practice](https://github.com/VirginioBruno/coding-practice)
 
-A structured C# and .NET 10 study repository for algorithms, data structures, and coding challenges, supported by automated tests, benchmarks, CI, and documented progress.
+A C# repository for algorithms, data structures, and coding challenges.
 
 ### [Order Service](https://github.com/VirginioBruno/order-service) — Work in progress
 
-An order-management service where I'm exploring domain modeling, API design, persistence, authentication, automated testing, and concurrency concerns.
+A .NET service for order management.
 
 ### [Order Signal](https://github.com/VirginioBruno/order-signal) — Work in progress
 
-An event-driven backend study focused on messaging, reliable event delivery, background processing, and real-time notifications.
+An event-driven .NET service for order processing and notifications.
 
 ## Technologies
 
